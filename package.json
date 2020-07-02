@@ -1,15 +1,14 @@
 {
   "author": {
-    "name": "legion"
+    "name": "gfi"
   },
   "bugs": {
-    "url": "https://github.com/liangwenzhong/spider-sequelize-oracle/issues"
+    "url": "https://github.com/rmos/sb-sequelize-oracle/issues"
   },
   "bundleDependencies": false,
   "contributors": [
     {
-      "name": "lihaolin",
-      "email": "lihl@legion-tech.net"
+      "name": "gfi"
     }
   ],
   "dependencies": {
@@ -53,7 +52,7 @@
   "engines": {
     "node": ">=0.6.21"
   },
-  "homepage": "https://github.com/liangwenzhong/spider-sequelize-oracle",
+  "homepage": "https://github.com/rmos/sb-sequelize-oracle.git",
   "keywords": [
     "mysql",
     "sqlite",
@@ -66,10 +65,10 @@
   ],
   "license": "MIT",
   "main": "index",
-  "name": "spider-sequelize-oracle",
+  "name": "sb-sequelize-oracle",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/liangwenzhong/spider-sequelize-oracle.git"
+    "url": "git+https://github.com/rmos/sb-sequelize-oracle.git"
   },
   "scripts": {
     "build-docker": "sudo docker-compose build",

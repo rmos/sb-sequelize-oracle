@@ -1,9 +1,12 @@
-**spider-sequelize-oracle**
+**sb-sequelize-oracle**
 ===================
 
 Hey! I'm Bobolcaca, this project fork from cu8-sequelize-oracle. We just fixed several bug 
 
 > **Note:**
+
+  ######1.1.3
+  - fix the bug of column unique limit and bug atributtes "hasjoin".
 
   ######1.1.2
   - fix the bug of 1.1.1 about option "alter".
