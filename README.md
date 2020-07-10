@@ -5,6 +5,9 @@ Hey! I'm Bobolcaca, this project fork from cu8-sequelize-oracle. We just fixed s
 
 > **Note:**
 
+  ######1.1.4
+  - fix bugs querys oracle (UPDATE AND SELECT JOINS through).
+
   ######1.1.3
   - fix the bug of column unique limit and bug atributtes "hasjoin".
 
