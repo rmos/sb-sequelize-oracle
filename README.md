@@ -4,6 +4,8 @@
 Hey! I'm Bobolcaca, this project fork from cu8-sequelize-oracle. We just fixed several bug 
 
 > **Note:**
+  ######1.1.6
+  - fix bugs querys oracle (INCLUDE of INCLUDE LEFT OUTER JOIN).
 
   ######1.1.5
   - fix bugs querys oracle (INCLUDE without attributes main).
